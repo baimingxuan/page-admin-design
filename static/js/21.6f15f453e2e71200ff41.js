@@ -1,2 +1,0 @@
-webpackJsonp([21],{zEdk:function(e,r,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,r=this._self._c||e;return r("div",{staticClass:"drag-wrapper"},[r("router-view")],1)},staticRenderFns:[]},a=t("VU/8")({name:"DragWrapper"},n,!1,null,null,null);r.default=a.exports}});
-//# sourceMappingURL=21.6f15f453e2e71200ff41.js.map
